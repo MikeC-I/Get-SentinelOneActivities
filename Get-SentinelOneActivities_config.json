@@ -1,0 +1,11 @@
+{
+    "logfile":"",
+    "loglevel": ,
+    "statefile": "",
+    "s1domain":"",
+    "apitoken":"",
+    "outputfile":"",
+    "minutesago":,
+    "activityIds":[],
+    "proxy" : ""
+}
